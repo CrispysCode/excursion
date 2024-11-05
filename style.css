@@ -1,0 +1,28 @@
+body {
+    background-color: black;
+    margin: 0;
+    text-align: center;
+    font-family: Verdana;
+}
+
+.container {
+    display: inline-block;
+    justify-content: center;
+    text-align: center;
+}
+
+header {
+    width: 100%;
+}
+
+  h1 {
+    color: white;
+    font-size: 3.25rem;
+    font-weight: normal;
+  }
+
+  p {
+    font-size: 16px;
+    color: aquamarine;
+    text-decoration: underline;
+  }
