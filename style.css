@@ -1,19 +1,19 @@
-body {
-    background-color: black;
-    margin: 0;
-    text-align: center;
-    font-family: Verdana;
-}
+  body {
+      background-color: black;
+      margin: 0;
+      text-align: center;
+      font-family: Verdana;
+  }
 
-.container {
-    display: inline-block;
-    justify-content: center;
-    text-align: center;
-}
+  .phone-video {
+      display: inline-block;
+      justify-content: center;
+      text-align: center;
+  }
 
-header {
-    width: 100%;
-}
+  header {
+      width: 100%;
+  }
 
   h1 {
     color: white;
@@ -21,8 +21,33 @@ header {
     font-weight: normal;
   }
 
-  p {
+  .download {
     font-size: 16px;
     color: aquamarine;
     text-decoration: underline;
   }
+
+  h2 {
+    color: white;
+    font-size: 42px;
+    font-weight: 300;
+  }
+  .container p {
+    font-family: Verdana;
+    color: Gray;
+    font-size: 21px;
+    z-index: 20;
+
+  }
+
+  .divider {
+    margin-top: 25px;
+  }
+
+  footer {
+    color: gray;
+    text-align: right;
+    margin: 15px;
+  }
+
+ 
